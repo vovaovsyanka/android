@@ -20,5 +20,17 @@
             android:id="@+id/nav_worker"
             android:icon="@drawable/ic_menu_worker"
             android:title="Worker"/>
+        <item
+            android:id="@+id/nav_compass"
+            android:icon="@drawable/ic_compass"
+            android:title="Компас" />
+        <item
+            android:id="@+id/nav_collage"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Фото-коллаж" />
+        <item
+            android:id="@+id/nav_voice"
+            android:icon="@drawable/ic_microphone"
+            android:title="Голосовые заметки" />
     </group>
 </menu>
