@@ -46,4 +46,16 @@
         android:name="com.example.mireaproject.ui.AudioRecorderFragment"
         android:label="Голосовые заметки"
         tools:layout="@layout/fragment_audio_recorder" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.mireaproject.ui.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_coder"
+        android:name="com.example.mireaproject.ui.FilesFragment"
+        android:label="Шифровальщик"
+        tools:layout="@layout/fragment_files" />
 </navigation>
