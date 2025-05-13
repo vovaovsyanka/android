@@ -39,7 +39,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.example.mireaproject.fileprovider"
+            android:authorities="ru.mirea.ovsyannikov.mireaproject.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
