@@ -40,5 +40,9 @@
             android:id="@+id/nav_coder"
             android:icon="@drawable/ic_coder"
             android:title="Шифровальщик" />
+        <item
+            android:id="@+id/nav_firebase"
+            android:icon="@drawable/ic_firebase_icon"
+            android:title="Firebase" />
     </group>
 </menu>
